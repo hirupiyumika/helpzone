@@ -1,4 +1,4 @@
 {
     "jwtPrivateKey": "1234",
-    "db": "mongodb://localhost/helpzone"
+    "db": "mongodb+srv://helpzone:helpzone2023@cluster0.gjydsys.mongodb.net/helpzone?retryWrites=true&w=majority"
 } 
